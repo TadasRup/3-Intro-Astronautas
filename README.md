@@ -26,6 +26,7 @@ Design: [Atronaut](https://dribbble.com/shots/5964475/attachments/5964475-404-Lo
 - FontAwesome font/icons
 - HTML entities
 - pseudo-elements
+- Favicon
 
 ## 🧰 Getting Started
 
