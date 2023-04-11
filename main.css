@@ -16,3 +16,13 @@ main {
 footer {
 
 }
+
+ul {
+    display: inline;
+    float: right;
+}
+
+ul li {
+    display: inline;
+    margin-right: 10px;
+}
